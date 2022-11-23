@@ -8,7 +8,7 @@ The purpose of this project is to refactor code for an existing webpage to enhan
 
 ## Screenshot of Application
 
-![DeployedApplication](./Develop/assets/images/Deployed%20Application.png)
+![DeployedApplication](assets/images/Deployed%20Application.png)
 
 
 
