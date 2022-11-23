@@ -16,4 +16,4 @@ The purpose of this project is to refactor code for an existing webpage to enhan
 
 Here you will find a link that leads to the webpage based upon the refactored code:
 
-https://gabess3.github.io/horiseon-accessibility-challenge
+https://gabess3.github.io/Horiseon-Accessibility-Challenge
