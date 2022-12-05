@@ -1,4 +1,4 @@
-/* Universal and Element selectors */
+/* Universal and Element selectors consolidated and follow semantic structure */
 
 * {
     box-sizing: border-box;
@@ -20,7 +20,7 @@ p {
 }
 
 
-/* Classes for header and header content */
+/* Classes for header and header content consolidated and follow semantic structure */
 
 .header {
     padding: 20px;
@@ -37,6 +37,7 @@ p {
 .header h1 .seo {
     color: #d9dcd6;
 }
+
 
 .header nav {
     padding-top: 15px;
@@ -56,7 +57,7 @@ p {
 }
 
 
-/* Class for image separating the header from the main content */
+/* Class for image separating the header from the main content consolidated and follow semantic structure */
 
 .hero {
     height: 800px;
@@ -66,7 +67,7 @@ p {
     background-position: center;
 }
 
-/* Classes for the "content" section under the main tag */
+/* Classes for the "content" section under the main tag consolidated and follow semantic structure */
 
 .content {
     width: 75%;
@@ -102,7 +103,7 @@ p {
     margin-left: 25px;
 }
 
-/* Classes for the "benefits" section of the main tag */
+/* Classes for the "benefits" section of the main tag consolidated and follow semantic structure */
 
 .benefits {
     margin-right: 20px;
@@ -131,7 +132,7 @@ p {
     max-width: 150px;
 }
 
-/* Classes for the footer content */
+/* Classes for the footer content consolidated and follow semantic structure */
 
 .footer {
     padding: 30px;
