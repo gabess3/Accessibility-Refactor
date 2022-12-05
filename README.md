@@ -1,4 +1,4 @@
-# Horiseon Webpage Accessibility Challenge
+# Horiseon Webpage Accessibility Refactor
 
 ## Description of Application
 
